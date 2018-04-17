@@ -1,0 +1,8 @@
+{
+  "name": "stanleyAssess",
+  "app_id": "54849744",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
